@@ -1,0 +1,91 @@
+html,body
+{
+    margin: 0;
+    height: 100%;
+}
+
+.image1
+{
+    height: 100%;
+    width: 100%;
+    background-image: url("../image/bg2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+
+}
+
+.bgcolor1
+{
+    height: 100%;
+    width: 100%;
+    background :linear-gradient(pink,purple);
+
+}
+.image2
+{
+    height: 100%;
+    width: 100%;
+    background-image: url("../image/bg3.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bgcolor2
+{
+
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to bottom left, blue,silver);
+
+}
+.image3
+{
+    height: 100%;
+    width: 100%;
+    background-image: url("../image/bg1.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1
+{
+    margin: 0;
+    top: 0;
+     position: relative;
+    color: white;
+    font-size: 10em;
+    text-align: center;
+}
+h2
+{
+    margin: 0;
+    top: 40%;
+    left: 0;
+    position: relative;
+    color: white;
+    font-size:10em;
+    text-align: center;
+}
+h3
+{
+    margin: 0;
+    top: 40%;
+    left: 0%;
+    position: relative;
+    color: white;
+    font-size:10em;
+    color: blue;
+    text-align: center;
+}
+
+h4
+{
+    margin: 0;
+    top: 40%;
+    left: 0;
+    position: relative;
+    color: white;
+    font-size:10em;
+    color: gray;
+    text-align: center;
+
+}

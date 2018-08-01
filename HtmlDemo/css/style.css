@@ -1,0 +1,136 @@
+html,body
+{
+    margin: 0px;
+    height: 100%;
+    background: #d5a7ff;
+}
+.class
+{
+
+    position: relative;
+    margin: auto;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    height: 100%;
+    width: 100%;
+    background: pink;
+    /*display: inline-block;*/
+}
+/*.class1*/
+/*{*/
+    /*width: 600px;*/
+    /*height: 600px;*/
+    /*background: #9789ff;*/
+    /*display: inline-block;*/
+
+/*}*/
+
+.container
+{
+    position: relative;
+    margin: auto;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    height: 100%;
+    width: 100%;
+
+    background: #5ac3ff;
+}
+.homeimage
+{
+    position: absolute;
+    height:20% ;
+    width: 20%;
+    margin-left: 840px;
+    float: left;
+    background: blue;
+}
+.homeinfo
+{
+    height: 50%;
+    width: 50%;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    float: left;
+}
+.containerinfo
+{
+    height: 50%;
+    width: 50%;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    float: left;
+}
+.containerimage
+
+{
+    position: absolute;
+    height: 20%;
+    width: 20%;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    float: left;
+    margin-left: 840px;
+
+}
+.parant
+{
+
+    position: absolute;
+    margin: auto;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    height: 100%;
+    width: 100%;
+    background: #bad6ff
+
+}
+
+.parantimage
+{
+    position:relative;
+    height:20% ;
+    width: 20%;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    float: left;
+    background: blue;
+}
+.parantimage1
+{
+    position:relative;
+    height:20% ;
+    width: 20%;
+    margin-left: 250px;
+    float: left;
+    background: red;
+
+}
+.parantimage2
+{
+    position:relative;
+    height:20% ;
+    width: 20%;
+    margin-left: 10px;
+    float: left;
+    background: red;
+
+}
+.parantimage3
+{
+    position:relative;
+    height:20% ;
+    width: 20%;
+    margin-left: 10px;
+    float: left;
+    background: red;
+
+}

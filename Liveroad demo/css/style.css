@@ -1,0 +1,32 @@
+html,body
+{
+    margin: 0px;
+    height: 100%;
+
+
+
+    background-image: url("../image/im2.jpg");
+    background-size: cover;
+}
+.main
+{
+    height: 100%;
+    width: 100%;
+}
+.car img
+{
+  position: relative;
+    top: 450px;
+    left: 800px;
+    background: transparent;
+
+}
+.person img
+{
+    position: relative;
+    top: 400px;
+    left: 900px;
+
+
+
+}

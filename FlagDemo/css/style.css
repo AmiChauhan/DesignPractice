@@ -1,0 +1,41 @@
+html,body
+{
+    margin: 0;
+    height: 100%;
+
+}
+.main
+{
+    height: 100%;
+    width: 100%;
+    background: #9ca77d;
+
+}
+.orange
+{
+    height: 33.33%;
+    width: 100%;
+    background: orange;
+}
+.white
+{
+    height: 33.33%;
+    width: 100%;
+    background: white;
+}
+.green
+{
+    height: 33.33%;
+    width: 100%;
+    background: green;
+}
+/*.blue*/
+/*{*/
+    /*height: 33.11%;*/
+    /*width: 33.11%;*/
+    /*border-radius: 20px;*/
+    /*border-width: 50px;*/
+    /*border: blue;*/
+    /*float: right;*/
+    /*background: blue;*/
+/*}*/
